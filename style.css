@@ -89,7 +89,7 @@ body {
 }
 
 .not-account {
-    color: rgb(160, 160, 160);
+    color: #8E8E8D;
 }
 
 .link-blue {
@@ -120,11 +120,11 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url('./img/apple-button.png');
+    background-image: url('./img/app-store-button.png');
 }
 
 .app-download:nth-child(2) {
-    background-image: url('./img/googleplay-button.png');
+    background-image: url('./img/google-play-button.png');
 }
 
 /* media queries */
